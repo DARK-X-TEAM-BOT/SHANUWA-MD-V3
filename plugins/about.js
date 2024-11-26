@@ -35,7 +35,7 @@ let about = ` *👋HELLO BROTHER   ${pushname}*
 © ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ 
 
 
-return await conn.sendMessage(from,{image: {url:`https://i.ibb.co/THZ7HJX/IMG-20240913-WA0042.jpg`},caption:about},{quoted: mek})
+return await conn.sendMessage(from,{image: {url:https://i.ibb.co/THZ7HJX/IMG-20240913-WA0042.jpg`},caption:about},{quoted: mek})
 
 }catch(e){
 
